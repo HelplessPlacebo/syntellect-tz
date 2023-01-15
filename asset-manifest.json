@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/rsyntellect-tz/static/css/main.c1463789.css",
-    "main.js": "/rsyntellect-tz/static/js/main.90bc198c.js",
-    "index.html": "/rsyntellect-tz/index.html",
-    "main.c1463789.css.map": "/rsyntellect-tz/static/css/main.c1463789.css.map",
-    "main.90bc198c.js.map": "/rsyntellect-tz/static/js/main.90bc198c.js.map"
+    "main.css": "/syntellect-tz/static/css/main.c1463789.css",
+    "main.js": "/syntellect-tz/static/js/main.90bc198c.js",
+    "index.html": "/syntellect-tz/index.html",
+    "main.c1463789.css.map": "/syntellect-tz/static/css/main.c1463789.css.map",
+    "main.90bc198c.js.map": "/syntellect-tz/static/js/main.90bc198c.js.map"
   },
   "entrypoints": [
     "static/css/main.c1463789.css",
